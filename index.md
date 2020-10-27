@@ -29,4 +29,5 @@ Well, so far I've only taken...:
 ## Misc. 
 
 [Massively Multilingual Machine Translation](https://ai.googleblog.com/2019/10/exploring-massively-multilingual.html)
-[My CV in Overleaf.com:](https://www.overleaf.com/read/bggqxdwfkcpc)
+
+[My CV on Overleaf.com](https://www.overleaf.com/read/bggqxdwfkcpc)
