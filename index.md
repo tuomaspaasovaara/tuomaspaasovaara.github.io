@@ -4,24 +4,28 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hey there, I built this page for my Command Line course at the University of Helsinki. I hope it works alright!
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/tuomas-paasovaara-0ba9a555), [GitHub](https://github.com/tuomaspaasovaara)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form tuomas.paasovaara@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+Well, so far I've only taken...:
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Command line tools for linguists](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2021-89632e3c-98a8-4a85-9c71-d792921e6200), autumn 2020
+
+[Post-editing in Translation](https://studies.helsinki.fi/courses/cu/hy-CU-118188064-2020-08-01), autumn 2020
 
 ## Projects
 
+[Test project on the "Command line tools for linguists" course](https://github.com/tuomaspaasovaara/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Massively Multilingual Machine Translation](https://ai.googleblog.com/2019/10/exploring-massively-multilingual.html) 
