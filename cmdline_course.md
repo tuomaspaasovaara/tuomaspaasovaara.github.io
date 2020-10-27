@@ -6,6 +6,16 @@ layout: default
   <dt>Introduction to the Command Line course</dt>
     <dd>This course was about learning the basics of using command line tools in Unix. The emphasis was on tools useful for linguists, such as various text editing tools. The course serves as a good foundation for other courses where the command line environment is used.</dd>
 <p>
+<table>                                                                                                                                                                                                     <tr>
+<th>Course symbol</th>                                                                                                                                                                                      <th>Full name of course</th>                                                                                                                                                                                <th>Term
+</th>
+</tr>
+<tr>
+<td>KIK-LG219</td>
+<td>Command line tools for linguists</td>
+<td>Autumn 2020</td>
+</tr>
+</table>
 <hr>
 <p>
 <dl>
@@ -16,7 +26,7 @@ layout: default
 <u>#### An example of some code I used on this lecture:</u>
 <p><p>
 
-<i><dd>>>> echo Hello, World!</dd></i>
+<i><dd>>>> echo Hello, World! <h5>(Prints the text 'Hello, World!')</h5></dd></i>
 <p>
 <hr>
 <p>
@@ -29,7 +39,7 @@ layout: default
 <p><p>
 <u>#### An example of some code I used on this lecture:</u>
 <p><p>
-    <i><dd>>>> emacs hello_world.txt</dd></i>
+    <i><dd>>>> emacs hello_world.txt <h5>(Opens hello_world.txt in the emacs text editor.)</h5></dd></i>
 <p>
 <hr> 
 <p>
@@ -40,7 +50,7 @@ layout: default
 
 <p><p>
 <u>#### An example of some code I used on this lecture:</u>                                                                                                                                                         <p><p>
-    <i><dd>>>> sort hello_world.txt</dd></i>
+    <i><dd>>>> sort -u hello_world.txt <h5>(Sorts hello_world.txt and removes duplicates.)</h5></dd></i>
 <p>
 <hr> 
 <p>
@@ -52,7 +62,7 @@ layout: default
 <p><p>
 <u>#### An example of some code I used on this lecture:</u>
  <p><p>
-     <i><dd>>>> echo day | sed s/day/night/</dd></i> 
+     <i><dd>>>> echo day | sed s/day/night/ <h5>(Prints 'day' on screen BUT changes it into 'night', meaning 'night' (instead of 'day') is printed on screen.)</h5></dd></i> 
 <p>
 <hr> 
 <p>
@@ -62,9 +72,7 @@ layout: default
 
 <p><p>
 <u>#### An example of some code I used on this lecture:</u>                                                                                                                                                          <p><p>
-<i>
-<dd>diff $1 $2 > /dev/null<br>if [ $? = 0 ]<br>then<br>    echo -e "0\n" # Print "0" if the two files are idential.<br>    else<br>        echo -e "1\n" # Print "1" if the two files are not identical.<br>	fi</dd>
-</i>
+<i><dd>diff $1 $2 > /dev/null <h5>(Shows how the two files differ AND does not print any error messages on screen.)</h5></dd></i>
 <p>
 <hr> 
 <p>
@@ -77,7 +85,7 @@ layout: default
 <u>#### An example of some code I used on this lecture:</u>
 <p>
 <p>
-<dd><i>cat $1 >> $2</i></dd>
+<dd><i>cat $1 >> $2</i><h5> (Appends the contents of one file to the end of another file.)</h5></dd>
 <p>
 <hr> 
 <p>
@@ -88,6 +96,8 @@ layout: default
 <p><p>
 <u>#### An example of some code I used on this lecture:</u>
 <p><p>
-    <i><dd>bundle exec jekyll serve</dd></i>
+   <dd><i>bundle exec jekyll serve</i><h5> (Runs the Jekyll server version specified in the Gemfile.)</h5></dd>
 <hr>
+<p>
+<img src="https://www.vectorkhazana.com/assets/images/products/have_a_nice_da.jpg">
 
